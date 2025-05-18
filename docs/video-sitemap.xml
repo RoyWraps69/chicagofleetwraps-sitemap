@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://www.chicagofleetwraps.com/portfolio</loc>
+    <video:video>
+      <video:thumbnail_loc>https://www.chicagofleetwraps.com/assets/images/portfolio-thumb.jpg</video:thumbnail_loc>
+      <video:title>Chicago Fleet Wraps Portfolio Reel</video:title>
+      <video:description>Showcase of our best fleet wraps across Chicago.</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=EXAMPLE</video:content_loc>
+      <video:duration>PT2M30S</video:duration>
+      <video:publication_date>2025-05-18</video:publication_date>
+    </video:video>
+  </url>
+</urlset>

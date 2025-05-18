@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.chicagofleetwraps.com/</loc>
+    <image:image>
+      <image:loc>https://www.chicagofleetwraps.com/assets/images/hero-fleet-wrap.jpg</image:loc>
+      <image:caption>Fleet Wraps in Chicago</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.chicagofleetwraps.com/commercial-vehicle-wraps</loc>
+    <image:image>
+      <image:loc>https://www.chicagofleetwraps.com/assets/images/commercial-wrap.jpg</image:loc>
+      <image:caption>Commercial Vehicle Wraps</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.chicagofleetwraps.com/color-change-wraps</loc>
+    <image:image>
+      <image:loc>https://www.chicagofleetwraps.com/assets/images/color-change.jpg</image:loc>
+      <image:caption>Color Change Wraps</image:caption>
+    </image:image>
+  </url>
+</urlset>
